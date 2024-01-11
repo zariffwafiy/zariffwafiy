@@ -1,11 +1,10 @@
 ### Hi there 👋
-## I'm Zariff Wafiy
 
 <img src="https://pbs.twimg.com/media/Frt1EqCaIAAlFr_?format=jpg&name=900x900" >
-<h1 align="center">Hi 👋, I'm Luqman</h1>
-<h3 align="center">Data Engineering Student at UTM</h3>
-<h5 align="center">luqmanariff2001@gmail.com</h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samsamsambal&label=Profile%20views&color=0e75b6&style=flat" alt="samsamsambal" /> </p>
+<h1 align="center">Hi 👋, I'm Zariff</h1>
+<h3 align="center">Data Science student at Universiti Malaya</h3>
+<h5 align="center">wafiy.wh@gmail.com</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samsamsambal&label=Profile%20views&color=0e75b6&style=flat" alt="zariffwafiy" /> </p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
