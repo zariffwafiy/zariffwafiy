@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://pbs.twimg.com/media/Frt1EqCaIAAlFr_?format=jpg&name=900x900" >
+<img src="https://github.com/zariffwafiy/zariffwafiy/blob/main/872710.jpg" >
 <h1 align="center">Hi 👋, I'm Zariff</h1>
 <h3 align="center">Data Science student at Universiti Malaya</h3>
 <h5 align="center">wafiy.wh@gmail.com</h5>
