@@ -17,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zariffwafiy&show_icons=true&locale=en&layout=compact" alt="zariffwafiy" /></p>
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zariffwafiy&show_icons=true&locale=en" alt="zariffwafiy" /></p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zariffwafiy&show_icons=true&hide=prs,issues,contribs&theme=radical)
